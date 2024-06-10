@@ -13,7 +13,7 @@ while ( count [ currentHeight] == 0)
 ++currentHeight;
 if( height ! = currentHeight)
 ++ans;
---count[currentHeught];
+--count[currentHeight];
 }
 
 return ans;
